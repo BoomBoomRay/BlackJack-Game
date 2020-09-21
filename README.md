@@ -1,3 +1,3 @@
 # BlackJack-Game
-Fun BlackJack using VanillaJS
+A fun BlackJack game using Vanilla JS. Try and beat the dealer!
 
